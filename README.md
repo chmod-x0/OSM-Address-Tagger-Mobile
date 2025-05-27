@@ -58,7 +58,7 @@ If you're moving to a **new street** (or ZIP, city, etc.):
 
 You can:
 - Host it via **GitHub Pages** for mobile access.
-- Download and run the `index.html` file directly in any mobile browser.
+- Download and run the `OSM Address Tagger Mobile.html` file directly in any mobile browser.
 
 ---
 
